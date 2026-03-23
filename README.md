@@ -5,12 +5,14 @@ O TaskFlow é um aplicativo Android desenvolvido com o objetivo de auxiliar na o
 
 Este projeto foi desenvolvido como prática de desenvolvimento mobile, aplicando conceitos fundamentais de programação, interface e manipulação de dados.
 
+
 🚀 Funcionalidades
 ✅ Adicionar novas tarefas
 ✅ Listar tarefas em tempo real
 ✅ Marcar tarefas como concluídas
 ✅ Excluir tarefas
 ✅ Interface simples e fácil de usar
+
 
 🛠️ Tecnologias utilizadas
 Kotlin
